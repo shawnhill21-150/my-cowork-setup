@@ -1,0 +1,7 @@
+{
+  "connectionType": "http",
+  "url": "https://your-url-placeholder.com",
+  "headers": {
+    "API-Key": "your-api-key-placeholder"
+  }
+}
